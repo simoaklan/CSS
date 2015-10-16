@@ -1,0 +1,41 @@
+body
+{
+direction:rtl;
+}
+
+#logo
+{
+	float:right;
+}
+
+.main-nav ul li
+{
+float:right;
+text-align:right;
+}
+.post
+{
+left:auto !important;
+float:right;
+text-align:right;
+}
+
+#post-area .post .pinbin-link a
+{
+margin-right:200px;
+}
+
+#footer-area .widget
+{
+width:260px;
+margin-right:25px;
+float:right;
+}
+#wrap
+{
+padding-right:30px;
+}
+.type-post, .type-page, .type-attachment
+{
+float:right;
+}
